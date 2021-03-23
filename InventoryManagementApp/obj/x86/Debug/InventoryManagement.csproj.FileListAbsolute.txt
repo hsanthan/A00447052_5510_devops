@@ -1,2 +1,0 @@
-C:\Hema\5510git\devops\mcdadevopstutsv2\InventoryManagementApp\obj\x86\Debug\InventoryManagement.csprojAssemblyReference.cache
-C:\Hema\5510git\devops\mcdadevopstutsv2\InventoryManagementApp\obj\x86\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
