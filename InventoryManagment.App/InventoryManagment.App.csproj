@@ -24,5 +24,6 @@
     <Folder Include="Services\Interfaces\" />
     <Folder Include="Services\Repositories\" />
   </ItemGroup>
-
+  
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v16.0\WebApplications\Microsoft.WebApplication.targets" />
 </Project>
