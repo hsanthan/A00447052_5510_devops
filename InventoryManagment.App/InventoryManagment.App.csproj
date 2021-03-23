@@ -25,6 +25,6 @@
     <Folder Include="Services\Repositories\" />
   </ItemGroup>
 
-  <Import Project="$(MSBuildExtensionsPath32)\Microsoft Visual Studio\2019\Community\Microsoft\VisualStudio\v16.0\WebApplications\Microsoft.WebApplication.targets" />
+  <Import Project="c:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Microsoft\VisualStudio\v16.0\WebApplications\Microsoft.WebApplication.targets" />
 
 </Project>
